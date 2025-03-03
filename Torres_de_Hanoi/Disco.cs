@@ -13,6 +13,11 @@ namespace Torres_de_Hanoi
         public int Valor { get; set; }
         public String Valor { get; set; }
         */
+        private int NUM;
+        public int getNum {get;}
 
+        public Disco(int num){
+            this.NUM = num;
+        }
     }
 }
