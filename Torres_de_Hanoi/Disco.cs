@@ -18,5 +18,6 @@ namespace Torres_de_Hanoi
         public Disco(int num){
             NUM = num;
         }
+
     }
 }
