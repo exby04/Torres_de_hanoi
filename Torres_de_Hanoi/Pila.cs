@@ -9,7 +9,7 @@ namespace Torres_de_Hanoi
 {
     class Pila
     {
-        private List<Disco> Elementos = new List<Disco>();
+        public List<Disco> Elementos { get; set; }
 
         public int Size { get { return Elementos.Count; } }
 
