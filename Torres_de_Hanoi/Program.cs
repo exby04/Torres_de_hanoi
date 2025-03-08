@@ -20,7 +20,8 @@ namespace Torres_de_Hanoi
 
 
             string num_disco = Console.ReadLine();
-            for(int i=int.Parse(num_disco); i<=1 ;i--)
+
+            for(int i=int.Parse(num_disco); i>=1 ;i--)
             {
                 INI.push(new Disco(i));
             }
@@ -40,6 +41,8 @@ namespace Torres_de_Hanoi
                     Console.WriteLine("Has escogido el metodo iterativo.\n");
                     int movimientos = juegoHanoi.iterativo(int.Parse(num_disco),INI,FIN,AUX);
                     Console.WriteLine("Resuelto en "+movimientos+" Movimientos");
+                    Console.WriteLine("Pulse cualquier tecla para continuar ...");
+                    Console.ReadKey();
                     break;
                 default:
                     Console.WriteLine("\nNo has seleccionado ningun tipo de metodo.");

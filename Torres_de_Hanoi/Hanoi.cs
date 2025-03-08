@@ -26,7 +26,7 @@ namespace Torres_de_Hanoi
             }
             else
             {
-                return; //Movimiento inválido: el disco origen es mayor que el destino.
+                return; 
             }
 
         }
@@ -50,39 +50,56 @@ namespace Torres_de_Hanoi
         }
 
         public int iterativo(int n, Pila ini, Pila fin, Pila aux)
-        {
-            int totalMovimientos = (int)Math.Pow(2,n) - 1;
+{
+            int totalMovimientos = (int)Math.Pow(2, n) - 1;
             int m = 0;
 
-            if(n % 2 != 0)
+            if (n % 2 != 0)
             {
-                while (fin.Size != n){
-                    mover_disco(ini, fin);
-                    m++;
-                    imprimir(ini, aux, fin);
-                    
-                    mover_disco(ini, aux);
-                    m++;
-                    imprimir(ini, aux, fin);
-
-                    mover_disco(aux, fin);
-                    m++;
-                    imprimir(ini, aux, fin);
-                    
+                for (int i = 1; i <= totalMovimientos; i++)
+                {
+                    if (i % 3 == 1)
+                    {
+                        mover_disco(ini, fin);
+                        m++;
+                    }
+                    else if (i % 3 == 2)
+                    {
+                        mover_disco(ini, aux);
+                        m++;
+                    }
+                    else
+                    {
+                        mover_disco(aux, fin);
+                        m++;
+                    }
+                    imprimir(ini, aux, fin); // Imprimir el estado después de cada movimiento
                 }
-            } else {
-                while (aux.Size != n){
-                    mover_disco(ini, aux);
-                    m++;
-                    mover_disco(ini, fin);
-                    m++;
-                    mover_disco(aux, fin);
-                    m++;
+            }
+            else
+            {
+                for (int i = 1; i <= totalMovimientos; i++)
+                {
+                    if (i % 3 == 1)
+                    {
+                        mover_disco(ini, aux);
+                        m++;
+                    }
+                    else if (i % 3 == 2)
+                    {
+                        mover_disco(ini, fin);
+                        m++;
+                    }
+                    else
+                    {
+                        mover_disco(aux, fin);
+                        m++;
+                    }
+                    imprimir(ini, aux, fin); // Imprimir el estado después de cada movimiento
                 }
             }
 
             return m;
-
         }
 
     }

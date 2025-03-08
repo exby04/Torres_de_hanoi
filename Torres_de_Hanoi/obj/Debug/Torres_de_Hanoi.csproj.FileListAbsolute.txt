@@ -5,3 +5,10 @@ C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\bin\
 C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
 C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
 C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\Users\Alejandro\Documents\UPV\Segundo año\2 Periodo\Algoritmica\Practica1\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
