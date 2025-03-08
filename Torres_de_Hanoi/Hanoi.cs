@@ -37,7 +37,9 @@ namespace Torres_de_Hanoi
 
             if(n % 2 == 0)
             {
-                //Aqui chat me dice una cosa rara, hablar con el alex
+                Pila temp = fin;
+                fin = aux;                  //Si el numero de discos es par, cambia la pila aux por la pila fin y viceversa
+                aux = temp;
             }
 
             for(int i = n ; i >= 1 ; i--) 
