@@ -22,7 +22,7 @@ namespace Torres_de_Hanoi
         public void push(Disco d)
         {
             Elementos.Add(d);
-            Size++; 
+            Size++;
         }
 
         public Disco pop()
