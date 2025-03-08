@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GtiSegundo\\CuatriB\\Algoritmica\\Practicas\\Torres_de_hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|c:\\gtisegundo\\cuatrib\\algoritmica\\practicas\\torres_de_hanoi\\torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GtiSegundo\\CuatriB\\Algoritmica\\Practicas\\Torres_de_hanoi\\Torres_de_Hanoi\\Program.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Program.cs",
+              "ToolTip": "C:\\GtiSegundo\\CuatriB\\Algoritmica\\Practicas\\Torres_de_hanoi\\Torres_de_Hanoi\\Program.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:38:09.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

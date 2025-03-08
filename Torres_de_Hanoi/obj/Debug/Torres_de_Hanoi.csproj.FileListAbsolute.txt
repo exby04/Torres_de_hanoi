@@ -1,0 +1,7 @@
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.AssemblyReference.cache
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe.config
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.exe
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\bin\Debug\Torres_de_Hanoi.pdb
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.exe
+C:\GtiSegundo\CuatriB\Algoritmica\Practicas\Torres_de_hanoi\Torres_de_Hanoi\obj\Debug\Torres_de_Hanoi.pdb
