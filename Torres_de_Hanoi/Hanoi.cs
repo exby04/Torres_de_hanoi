@@ -15,7 +15,7 @@ namespace Torres_de_Hanoi
             {
                 return; //"La pila origen está vacía."
             }
-             if (b.isEmpty())
+            if (b.isEmpty())
             {
                 b.push(a.pop());
                 return;
@@ -33,7 +33,32 @@ namespace Torres_de_Hanoi
 
         public int iterativo(int n, Pila ini, Pila fin, Pila aux)
         {
-            return 0;
+            int totalMovimientos = (int)Math.Pow(2,n) - 1;
+
+            if(n % 2 == 0)
+            {
+                //Aqui chat me dice una cosa rara, hablar con el alex
+            }
+
+            for(int i = n ; i >= 1 ; i--) 
+            {
+                ini.push(new Disco(i)); //Creamos la pila inicial.
+            }
+
+            for(int i = 1; i <= totalMovimientos; i++)
+            {
+                if(i % 3 == 1)
+                {
+                    mover_disco(ini,fin);
+                }else if(i % 3 == 2)
+                {
+                    mover_disco(ini, aux);
+                }else if(i % 3 == 0)
+                {
+                    mover_disco(aux,fin);
+                }
+            }
+            return totalMovimientos;
         }
 
     }
